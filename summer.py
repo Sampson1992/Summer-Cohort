@@ -60,3 +60,5 @@ print(fruit1)
 fruit = ['apple', 'banana', 'cherry']
 fruit.remove('banana')
 print(fruit)
+
+# end of it
