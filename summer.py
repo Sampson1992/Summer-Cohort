@@ -55,3 +55,8 @@ fruit1 = ['apple', 'banana', 'cherry']
 fruit2 = ['mango', 'pineaple', 'papaya']
 fruit1.extend(fruit2)
 print(fruit1)
+
+# remove list
+fruit = ['apple', 'banana', 'cherry']
+fruit.remove('banana')
+print(fruit)
